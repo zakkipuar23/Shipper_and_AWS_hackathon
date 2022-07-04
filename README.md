@@ -5,5 +5,6 @@ FYI, Shipper is one of the logistics & warehouse aggregator in Indonesia that pr
 For more detail information, please read the pdf file with name "Shipperhack-Participants Brief"
 
 ### My role is a data scientist with task :
+- criticize business process and find a potential improvement.
 - created monitoring dashboard of put-away process by utilize AWS Quicksight 
 - create machine learning model by utilize Amazon SageMaker
